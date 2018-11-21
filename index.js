@@ -6,4 +6,3 @@ function theBeatlesPlay(muiscians, instruments) {
   }
   return arr
 }
-
