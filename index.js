@@ -1,4 +1,4 @@
-ion theBeatlesPlay(muiscians, instruments) {
+function theBeatlesPlay(muiscians, instruments) {
   const arr = []
 
   for (let i = 0, l = musicians.length; i < l; i++) {
@@ -6,3 +6,4 @@ ion theBeatlesPlay(muiscians, instruments) {
   }
   return arr
 }
+
